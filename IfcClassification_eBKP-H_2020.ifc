@@ -5,7 +5,7 @@ FILE_NAME('','2025-07-11T23:09:30',(''),(''),'IfcOpenShell 0.8.1-c49ca69','IfcOp
 FILE_SCHEMA(('IFC4'));
 ENDSEC;
 DATA;
-#1=IFCCLASSIFICATION('CRB','2020','28.09.2020','eBKP-H','Elementbasierter Baukostenplan Hochbau Schweiz',$,('eBKP-H'));
+#1=IFCCLASSIFICATION('CRB','2020','2020-09-28','eBKP-H','Elementbasierter Baukostenplan Hochbau Schweiz',$,('eBKP-H'));
 #2=IFCCLASSIFICATIONREFERENCE($,'A','Grundst\X2\00FC\X0\ck',#1,$,$);
 #3=IFCCLASSIFICATIONREFERENCE($,'A01','Grundst\X2\00FC\X0\ck, Baurecht',#2,$,$);
 #4=IFCCLASSIFICATIONREFERENCE($,'A01.01','Grundst\X2\00FC\X0\ckserwerb',#3,$,$);
