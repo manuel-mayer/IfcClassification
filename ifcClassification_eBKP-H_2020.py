@@ -50,7 +50,7 @@ try:
             classification = self.file.create_entity('IfcClassification', **{
                 'Source': 'CRB',
                 'Edition': '2020',
-                'EditionDate': '28.09.2020',
+                'EditionDate': '2020-09-28',
                 'Name': 'eBKP-H',
                 'Description': 'Elementbasierter Baukostenplan Hochbau Schweiz',
                 'ReferenceTokens': ['eBKP-H']
