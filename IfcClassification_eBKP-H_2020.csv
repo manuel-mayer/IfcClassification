@@ -1,0 +1,410 @@
+A,Grundstück
+A01,"Grundstück, Baurecht"
+A01.01,Grundstückserwerb
+A01.02,Baurechtserwerb
+A01.03,Bauwerkserwerb
+A01.04,Perimeterbeitrag
+A02,"Nebenkosten zu Grundstück, Baurecht"
+A02.01,"Handänderungssteuer, Gewinnsteuer"
+A02.02,Notariatskosten
+A02.03,Grundbuchgebühr
+A02.04,"Anwaltskosten, Gerichtskosten"
+A02.05,Vermittlungsprovision
+A02.06,"Abfindung, Servitut"
+A02.07,"Vermessung, Vermarkung"
+B,Vorbereitung
+B01,"Untersuchung, Aufnahme, Messung"
+B01.01,Baugrunduntersuchung
+B01.02,Bestandsaufnahme
+B01.03,Umweltmessung
+B01.04,Überwachung
+B02,Baustelleneinrichtung
+B02.01,Baustellenerschliessung
+B02.02,"Versorgung, Entsorgung"
+B02.03,"Arbeitsraum, Aufenthaltsraum"
+B02.04,"Hebe-,  Verlade-,  Transport-,  Lagereinrichtung"
+B02.05,Einrichtung für Materialaufbereitung
+B02.06,Witterungsbedingte Baumassnahme
+B02.07,"Baustellenorganisation, Sicherheit"
+B02.08,Schutzmassnahme für Umgebung
+B03,Provisorium
+B03.01,Provisorisches Rückhaltesystem
+B03.02,Provisorische Werkleitung
+B03.03,Provisorisches Gebäude
+B03.04,Provisorische Verkehrsanlage
+B03.05,Provisorische Ausstattung
+B04,Erschliessung durch Werkleitungen
+B04.01,Starkstromleitung
+B04.02,Schwachstromleitung
+B04.03,Fernwärmeleitung
+B04.04,Fernkälteleitung
+B04.05,Wasserleitung
+B04.06,Schmutzwasserleitung
+B04.07,Regenwasserleitung
+B04.08,Gasleitung
+B05,"Rodung, Rückbau"
+B05.01,"Fällung, Rodung, Umpflanzung"
+B05.02,Nicht kontaminierter Rückbau
+B05.03,Kontaminierter Rückbau
+B06,Baugrube
+B06.01,Nicht kontaminierter Aushub
+B06.02,Kontaminierter Aushub
+B06.03,Böschungssicherung
+B06.04,Baugrubenabschluss
+B06.05,Materialeinbau
+B06.06,Wasserhaltung
+B07,"Baugrundverbesserung, Bauwerkssicherung"
+B07.01,Verbesserung Baugrund
+B07.02,Pfählung
+B07.03,Unterfangung Bauwerk
+B07.04,Sicherung Bauwerk
+B08,Gerüst
+B08.01,Fassadengerüst
+B08.02,Arbeitsgerüst
+B08.03,Notdach
+B08.04,Schutzgerüst
+B09,Anpassung angrenzendes Bauwerk
+B09.01,Bauliche Anpassungen angrenzendes Bauwerk
+B09.02,"Unterfangung, Sicherung angrenzendes Bauwerk"
+B09.03,Verkehrsanlage ausserhalb Grundstück
+C,Konstruktion Gebäude
+C01,"Fundament, Bodenplatte"
+C01.01,Unterbau Fundament und Bodenplatte
+C01.02,Fundament
+C01.03,Bodenplatte
+C01.04,"Erdverbundene Treppe, Rampe"
+C01.05,Erdverbundenes Podest
+C02,Wandkonstruktion
+C02.01,Aussenwandkonstruktion
+C02.02,Innenwandkonstruktion
+C03,Stützenkonstruktion
+C03.01,Aussenstütze
+C03.02,Innenstütze
+C04,"Deckenkonstruktion, Dachkonstruktion"
+C04.01,Geschossdecke
+C04.02,"Innen liegende Treppe, Rampe"
+C04.03,Innen liegende Podeste
+C04.04,Konstruktion Flachdach
+C04.05,Konstruktion geneigtes Dach
+C04.06,"Aussen liegende Treppe, Rampe"
+C04.07,Aussen liegende Podeste
+C04.08,"Aussen liegende Konstruktion, Vordach"
+C05,Ergänzende Leistung zu Konstruktion
+C05.01,"Durchbruch, Schlitz zu Konstruktion"
+C05.02,"Maschinensockel, Einlage"
+D,Technik Gebäude
+D01,Elektroanlage
+D01.01,"Anlage, Erzeugung Starkstrom"
+D01.02,Transformierung Starkstrom
+D01.03,Speicherung Starkstrom
+D01.04,Installation Starkstrom
+D01.05,Verbraucher Starkstrom: Leuchten
+D01.06,Verbraucher Starkstrom: Elektrogeräte
+D01.07,"Anlage, Erzeugung Schwachstrom"
+D01.08,Transformierung Schwachstrom
+D01.09,Speicherung Schwachstrom
+D01.10,Installation Schwachstrom
+D01.11,Verbraucher Schwachstrom
+D02,Gebäudeautomation
+D02.01,Managementebene
+D02.02,Automationsebene
+D02.03,Feldebene
+D02.04,Raumautomation
+D02.05,Automationsnetzwerk
+D02.06,Schaltgerätekombination
+D02.07,Systemintegration
+D03,Sicherheitsanlage
+D03.01,"Einbruchmeldeanlage, Überfallmeldeanlage"
+D03.02,Zutrittskontrollanlage
+D03.03,Videoüberwachungsanlage
+D03.04,Schliessanlage
+D04,Technische Brandschutzanlage
+D04.01,Brandmeldeanlage
+D04.02,Gaswarnanlage
+D04.03,Nasslöschanlage
+D04.04,Trockenlöschanlage
+D04.05,Löschgerät
+D04.06,Rauch-  und Wärmebehandlungsanlage
+D04.07,Elektroakustische Lautsprecheranlage
+D05,Wärmetechnische Anlage
+D05.01,"Wärmequelle, -senke, Brennstofflager"
+D05.02,Wärmeerzeugung
+D05.03,Wärmespeicherung
+D05.04,Wärmeverteilung
+D05.05,Wärmeabgabe
+D06,Kältetechnische Anlage
+D06.01,"Kältequelle, -senke, Brennstofflager"
+D06.02,Kälteerzeugung
+D06.03,Kältespeicherung
+D06.04,Kälteverteilung
+D06.05,Kälteabgabe
+D07,Lufttechnische Anlage
+D07.01,"Aussenluftversorgung, Fortluftführung"
+D07.02,Luftaufbereitung
+D07.03,Luftwärmespeicherung
+D07.04,Luftverteilung
+D07.05,Luftabgabe
+D08,Wassertechnische Anlage
+D08.01,Wasserversorgung
+D08.02,Wasserbehandlung
+D08.03,Wasserspeicher
+D08.04,Wasserverteilung
+D08.05,"Wasser: Armatur, Apparat"
+D08.06,Wasser: Installationselement
+D09,Abwassertechnische Anlage
+D09.01,Abwasserentsorgung
+D09.02,Abwasserbehandlung
+D09.03,Abwasserspeicher
+D09.04,Abwassersammlung
+D09.05,"Abwasser: Armatur, Apparat"
+D10,Gastechnische Anlage
+D10.01,Gasversorgung
+D10.02,Gasbehandlung
+D10.03,Gasspeicherung
+D10.04,Gasverteilung
+D10.05,"Gas: Armatur, Apparat"
+D11,Anlage für Spezialmedien
+D11.01,"Spezialmedien: Versorgung, Entsorgung"
+D11.02,Spezialmedien: Aufbereitung
+D11.03,Spezialmedien: Speicherung
+D11.04,Spezialmedien: Verteilung
+D11.05,"Spezialmedien: Armatur, Apparat"
+D12,Beförderungsanlage
+D12.01,Personenaufzug
+D12.02,Lasten- und Serviceaufzug
+D12.03,Spezialaufzug
+D12.04,Fahrtreppe
+D12.05,Fahrsteig
+D12.06,"Hebeeinrichtung, Verladestation"
+E,Äussere Wandbekleidung Gebäude
+E01,Äussere Wandbekleidung unter Terrain
+E01.01,Wandabdichtung unter Terrain
+E01.02,Aussenwärmedämmung unter Terrain
+E01.03,Schutzschicht unter Terrain
+E02,Äussere Wandbekleidung über Terrain
+E02.01,Äussere Beschichtung
+E02.02,Aussenwärmedämmsystem
+E02.03,Fassadenbekleidung
+E02.04,Systemfassade
+E02.05,Fassadenbekleidung Untersicht
+E02.06,Aussenliegende Absturzssicherung
+E03,Element in Aussenwand
+E03.01,Fenster
+E03.02,Aussentür
+E03.03,Aussentor
+E03.04,"Sonnenschutz, Wetterschutz"
+E03.05,Absturzsicherung
+F,Bedachung Gebäude
+F01,Dachhaut
+F01.01,Dachabdichtung unter Terrain
+F01.02,Bedachung Flachdach
+F01.03,Bedachung geneigtes Dach
+F01.04,Systemdach
+F02,Element zu Dach
+F02.01,Element zu Flachdach
+F02.02,Element zu geneigtem Dach
+F02.03,Schutzanlage zu Dach
+G,Ausbau Gebäude
+G01,"Trennwand, Innentür, Innentor"
+G01.01,Fest stehende Trennwand
+G01.02,Bewegliche Trennwand
+G01.03,Schachtfront
+G01.04,Innenfenster
+G01.05,Innentür
+G01.06,Innentor
+G02,Bodenbelag
+G02.01,Unterkonstruktion zu Bodenbelag
+G02.02,Bodenbelag
+G03,Wandbekleidung
+G03.01,Unterkonstruktion zu Wandbekleidung
+G03.02,Wandbekleidung
+G04,Deckenbekleidung
+G04.01,Unterkonstruktion zu Deckenbekleidung
+G04.02,Deckenbekleidung
+G05,"Einbauten, Schutzeinrichtung zu Ausbau"
+G05.01,"Einbauschrank, Regal, Ablage"
+G05.02,Einbauküche
+G05.03,Innerer Fensterausbau
+G05.04,Innerer Abschluss
+G05.05,"Absturz-, Anprallschutzeinrichtung"
+G05.06,Sonderbauteil
+G05.07,"Kleinbauteil, Schutzraumeinrichtung"
+G06,Ergänzende Leistung zu Ausbau
+G06.01,"Durchbruch, Schlitz zu Ausbau"
+G06.02,Abschottung
+G06.03,Reinigung
+G06.04,Trocknung
+H,Nutzungsspezifische Anlage Gebäude
+H01,Produktionsanlage
+H01.01,"Produktionsanlage: Versorgung, Entsorgung"
+H01.02,Produktionsanlage: Aufbereitung
+H01.03,Produktionsanlage: Speicherung
+H01.04,Produktionsanlage: Verteilung
+H01.05,"Produktionsanlage: Armatur, Apparat"
+H02,Laboranlage
+H02.01,"Laboranlage: Versorgung, Entsorgung"
+H02.02,Laboranlage: Aufbereitung
+H02.03,Laboranlage: Speicherung
+H02.04,Laboranlage: Verteilung
+H02.05,"Laboranlage: Armatur, Apparat"
+H03,Grossküche
+H03.01,"Grossküche: Versorgung, Entsorgung"
+H03.02,Grossküche: Aufbereitung
+H03.03,Grossküche: Lagerung
+H03.04,Grossküche: Verteilung
+H03.05,"Grossküche: Armatur, Apparat"
+H04,"Wäscherei-, Reinigungsanlage"
+H04.01,"Wäscherei-, Reinigungsanlage: Versorgung, Entsorgung"
+H04.02,"Wäscherei-, Reinigungsanlage: Aufbereitung"
+H04.03,"Wäscherei-, Reinigungsanlage: Speicherung"
+H04.04,"Wäscherei-, Reinigungsanlage: Verteilung"
+H04.05,"Wäscherei-, Reinigungsanlage: Armaturen, Apparat"
+H05,Anlage für Gesundheit
+H05.01,Gerät für Vitaldatenüberwachung
+H05.02,Einrichtung für Diagnostik
+H05.03,"Gerät für Behandlung, Pflege"
+H05.04,Medizinisches Kälte- / Wärmegerät
+H05.05,"Mess-, Analysetechnik"
+H05.06,"Reinigung, Desinfektion, Sterilisation"
+H05.07,"Medizinische Einrichtung, Ausstattung"
+H05.08,Medizinischer Beleuchtungskörper
+H05.09,Medizinische Textilien
+H05.10,Medizinisches Kleininventar
+H05.11,Medizinisches Transportmittel
+H05.12,Medizinisches Betriebsmittel
+H06,"Anlage für Bildung, Kultur"
+H06.01,"Bildung, Kultur: Versorgung, Entsorgung"
+H06.02,"Bildung, Kultur: Apparat"
+H06.03,"Bildung, Kultur: Steuerung"
+H06.04,Bildung Kultur: Einbauten
+H07,"Sportanlage, Freizeitanlage"
+H07.01,"Sportanlage, Freizeitanlage: Versorgung, Entsorgung"
+H07.02,"Sportanlage, Freizeitanlage: Apparat"
+H07.03,"Sportanlage, Freizeitanlage: Steuerung"
+H07.04,"Sportanlage, Freizeitanlage: Einbauten"
+H08,Anlage für Erholung
+H08.01,"Erholungsanlage: Versorgung, Entsorgung"
+H08.02,Erholungsanlage: Apparat
+H08.03,Erholungsanlage: Steuerung
+H08.04,Erholungsanlage: Einbaute
+H09,Weitere nutzungsspezifische Anlage
+H09.01,"Nutzungsspezifische Anlage: Versorgung, Entsorgung"
+H09.02,Nutzungsspezifische Anlage: Aufbereitung
+H09.03,"Nutzungsspezifische Anlage: Speicherung, Lagerung"
+H09.04,Nutzungsspezifische Anlage: Verteilung
+H09.05,"Nutzungsspezifische Anlage: Armatur, Apparat"
+H09.06,Parkieranlage
+H09.07,Materialtransportanlage
+H09.08,Kühlzelle
+H09.09,Lagereinrichtung
+I,Umgebung Gebäude
+I01,Umgebungsgestaltung
+I01.01,Geländeanpassung
+I01.02,Tief liegende Entwässerung
+I02,Bauwerk in der Umgebung
+I02.01,Böschungsverbau
+I02.02,Stützmauer
+I02.03,Frei stehende Wand
+I02.04,"Treppe, Rampe"
+I02.05,Kleinbauwerk
+I02.06,Unterirdisches Bauwerk
+I02.07,"Absturz-, Anprallschutzeinrichtungen für Umgebung"
+I02.08,Einfriedung
+I03,Grünfläche
+I03.01,Vegetationstragschicht
+I03.02,Saatfläche
+I03.03,"Flächenbepflanzung, Hecke"
+I03.04,Vertikale Begrünung
+I03.05,Einzelbepflanzung
+I03.06,"Einfassung, Abschluss Grünfläche"
+I03.07,Naturnahe Wasserfläche
+I03.08,Ingenieurbiologische Massnahme
+I03.09,Pflegemassnahme bis Übergabe
+I04,Hartfläche
+I04.01,"Fundations-, Tragschicht"
+I04.02,"Einfassung, Abschluss Hartfläche"
+I04.03,Deckschicht
+I04.04,Bodenmarkierung
+I05,Technik Umgebung
+I05.01,Elektroanlage Starkstrom für Umgebung
+I05.02,Elektroanlage Schwachstrom für Umgebung
+I05.03,Wärmeanlage für Umgebung
+I05.04,Kälteanlage für Umgebung
+I05.05,Sanitäre Anlage für Umgebung
+I05.06,Oberflächenentwässerung für Umgebung
+I05.07,Transportanlage in Umgebung
+I05.08,Perimeterschutz
+I06,Ausstattung Umgebung
+I06.01,Mobile Ausstattung für Umgebung
+I06.02,Fixierte Ausstattung für Umgebung
+I06.03,"Spiel-, Sportgerät für Umgebung"
+I06.04,Abfallentsorgungseinrichtung für Umgebung
+J,Ausstattung Gebäude
+J01,Mobiliar
+J01.01,Allgemeines Mobiliar
+J01.02,Nutzungsspezifisches Mobiliar
+J01.03,Mobile Leuchte
+J01.04,Signaletik
+J02,Kleininventar
+J02.01,Allgemeines Kleininventar
+J02.02,Nutzungsspezifisches Kleininventar
+J02.03,Mobiles Gerät
+J03,Textilien
+J03.01,Allgemeine Textilien
+J03.02,Nutzungsspezifische Textilien
+J04,Kunst am Bau
+J04.01,Kunstobjekt
+J04.02,Künstlerisch gestaltetes Bauteil
+V,Planungskosten
+V01,Planer
+V01.01,Architekt
+V01.02,Landschaftsarchitekt
+V01.03,Bauingenieur
+V01.04,Fachingenieur Gebäudetechnik
+V01.05,Spezialist
+V01.06,"Generalplaner, Planergemeinschaft"
+V01.07,Nebenkosten zu Planerleistungen
+V02,Unternehmer
+V02.01,Beratung zur Planung
+V02.02,Vorbereitung zur Bewirtschaftung
+V03,Auftraggeber
+V03.01,Auswahlverfahren
+V03.02,Eigentümer
+V03.03,Betreiber
+V03.04,Nutzer
+V03.05,Berater
+V03.06,"Anwalt, Experte, Gericht"
+V03.07,"Plattform, Projektraum "
+W,Nebenkosten zu Erstellung
+W01,"Bewilligung, Gebühr"
+W01.01,Bewilligung
+W01.02,Gebühr
+W02,"Versicherung, Garantie"
+W02.01,Versicherung
+W02.02,Garantie
+W02.03,Rückvergütung
+W03,Kapitalkosten
+W03.01,Kapitalkosten zu Grundstück
+W03.02,Kapitalkosten zu Erstellung
+W04,"Bewirtung, Öffentlichkeitsarbeit, Entschädigung"
+W04.01,Bewirtungskosten
+W04.02,Öffentlichkeitsarbeit
+W04.03,Entschädigung
+W05,Inbetriebnahme
+W05.01,Inbetriebnahme Bauwerk
+W06,"Vermietung, Verkauf"
+W06.01,Vergütung zu Erstvermietung
+W06.02,Nebenkosten zu Erstvermietung
+W06.03,Vergütung zu Verkauf
+W06.04,Nebenkosten zu Verkauf
+W07,Betriebserfolg
+W07.01,Betriebsaufwand
+W07.02,Betriebsertrag
+Y,"Reserve, Teuerung"
+Y01,Reserve
+Y01.01,Reserve
+Y02,Teuerung
+Y02.01,Teuerung
+Z,Mehrwertsteuer
+Z01,Mehrwertsteuer
+Z01.01,Mehrwertsteuer
